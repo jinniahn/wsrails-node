@@ -1,0 +1,35 @@
+{
+    "name": "wsrails-node",
+    "description": "wsrails-node is a package that allows you to use websocket-rails service ( https://github.com/websocket-rails/websocket-rails )",
+    "version": "0.9.0",
+    "homepage": "https://github.com/jinniahn/wsrails-node",
+    "author": {
+        "name": "jinsub ahn",
+        "email": "jinniahn@gmail.com",
+        "url": "http://www.linkedin.com/profile/view?id=138765359&trk=nav_responsive_tab_profile_pic"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jinniahn/wsrails-node"
+    },
+    "bugs": {
+        "url": "https://github.com/jinniahn/wsrails-node/issues"
+    },
+    "dependencies": {
+        "ws": ">=0.4.30"
+    },
+    "directories": {
+        "javascript": "./javascript"
+    },
+    "main": "./javascript/wsrails",
+    "engines": {
+        "node": ">=0.2.2"
+    },
+    "scripts": null,
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/jinniahn/wsrails-node/master/LICENSE"
+        }
+    ]
+}
