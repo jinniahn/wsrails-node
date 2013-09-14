@@ -18,7 +18,7 @@ The following versions are required for wrasil-node:
 
 Install it simply via npm:
 
-    npm install wrails-node
+    npm install git://github.com/jinniahn/wsrails-node
 
 License
 =======
